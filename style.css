@@ -2,3 +2,15 @@ header {
 background-color: blueviolet;
 color: blueviolet;
 }
+
+.cabecalho-imagem {
+        width: 20%
+}
+.cabecalho {
+        background-color: deepskyblue;
+        color: black;
+        display: flex;
+    }
+.cabecalho-lista-item { 
+
+}
