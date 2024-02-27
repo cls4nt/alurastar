@@ -1,16 +1,22 @@
+body{
+
+    font-family: 'poppins', sans-serif;
+}
 header {
-background-color: blueviolet;
-color: blueviolet;
-}
-
-.cabecalho-imagem {
-        width: 20%
-}
-.cabecalho {
-        background-color: deepskyblue;
-        color: black;
-        display: flex;
+    background-color: blueviolet;
+    color: blueviolet;
     }
-.cabecalho-lista-item { 
+    
+    .cabecalho-imagem {
 
-}
+            width: 20%
+     }
+    .cabecalho {
+            background-color: deepskyblue;
+            color: black;
+            display: flex;
+            justify-content: space-around;
+        }
+    .cabecalho-lista-item { 
+    display: inline-block;
+    }
